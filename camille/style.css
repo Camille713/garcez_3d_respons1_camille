@@ -1,0 +1,5 @@
+body{background-color: rgb(133, 146, 115);}
+@media screen and (max-width: 600px)
+{body {background-color: rgb(155, 48, 48);}}
+@media screen and (min-width: 500px)
+ {h1 {font-size: 300%;}}
